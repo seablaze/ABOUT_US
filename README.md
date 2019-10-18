@@ -6,7 +6,8 @@
 - Including and not exclusively to: games, musics, arts, films, clothings
 - Follow us on instagram @seablaze_studio
 
-# Seablaze Studio Newtown - "Roster":
+# Seablaze Studio Newtown
+"Roster"
 - Eric Guo - President, Technical Director, Creative Director;
 - Jady Huang - Vice President, Plot Director, Musical Director;
 - Ann Yu - Associate Mucial Director;
@@ -18,8 +19,10 @@
 - Ryan Liu - Cloth Designer;
 - Wade Wang - Mascot, Software Engineer;
 
-# Seablaze Studio Montréal - "Roster":
+# Seablaze Studio Montréal
+"Roster"
 - Coming soon
 
-# Seablaze Studio Shenzhen - "Roster":
+# Seablaze Studio Shenzhen
+"Roster"
 - Coming soon
