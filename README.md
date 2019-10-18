@@ -12,6 +12,7 @@
 - Jady Huang - Vice President, Plot Director, Musical Director;
 - Ann Yu - Associate Musical Director;
 - Jasmine Zhang - Artistic Director, Associate Plot Director;
+- Leon Li - Associate Technical Director
 - William Tao - Musician, Software Engineer;
 - Michael Luo - Software Engineer;
 - Winnie Ding - Musician;
