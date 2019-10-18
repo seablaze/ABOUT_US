@@ -1,7 +1,7 @@
 # About us
 - Founded on September 13th 2019
 - Based in Newtown, PA
-- Branches in Shenzhen, China; Montreal, Canada; 
+- Branches in Shenzhen, China; Montréal, Canada; 
 - Group of HS kids from all over the world making cool stuffs together
 - Including and not exclusively to: games, musics, arts, films, clothings
 - Follow us on instagram @seablaze_studio
@@ -10,7 +10,7 @@
 "Roster"
 - Eric Guo - President, Technical Director, Creative Director;
 - Jady Huang - Vice President, Plot Director, Musical Director;
-- Ann Yu - Associate Mucial Director;
+- Ann Yu - Associate Musical Director;
 - Jasmine Zhang - Artistic Director, Associate Plot Director;
 - William Tao - Musician, Software Engineer;
 - Michael Luo - Software Engineer;
