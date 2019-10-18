@@ -1,4 +1,4 @@
-# ABOUT_US
+# About us
 - Founded on September 13th 2019
 - Based in Newtown, PA
 - Branches in Shenzhen, China; Montreal, Canada; 
@@ -17,3 +17,9 @@
 - Layla Afzal - Artist;
 - Ryan Liu - Cloth Designer;
 - Wade Wang - Mascot, Software Engineer;
+
+# Seablaze Studio Montréal - "Roster":
+- Coming soon
+
+# Seablaze Studio Shenzhen - "Roster":
+- Coming soon
