@@ -16,6 +16,8 @@
 - William Tao - Musician, Software Engineer;
 - Michael Luo - Software Engineer;
 - Winnie Ding - Musician;
+- Nick Chen - Artist;
+- Cecilia Wang - Artist;
 - Layla Afzal - Artist;
 - Ryan Liu - Cloth Designer;
 - Wade Wang - Mascot, Software Engineer;
