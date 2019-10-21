@@ -19,7 +19,7 @@
 - Nick Chen - Artist;
 - Cecilia Wang - Artist;
 - Layla Afzal - Artist;
-- Ryan Liu - Cloth Designer;
+- Ryan Liu - Clothing Designer;
 - Wade Wang - Mascot, Software Engineer;
 
 # Seablaze Studio Montréal
