@@ -24,7 +24,7 @@
 
 # Seablaze Studio Montréal
 "Roster"
-- Coming soon
+- Lina - Regional Manager, Associate Plot Director;
 
 # Seablaze Studio Shenzhen
 "Roster"
