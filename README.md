@@ -4,7 +4,7 @@
 - Branches in Shenzhen, China; Montréal, Canada; 
 - Group of HS kids from all over the world making cool stuffs together
 - Go to folders for descriptions categorized by departments.
-- Follow us on instagram @seablaze_studio [Seablaze Studio Design](https://www.instagram.com/seablaze_studio/)
+- Follow us on instagram: [Seablaze Studio Design](https://www.instagram.com/seablaze_studio/) (@seablaze_studio) 
 - Go to [Our Projects](https://github.com/seablaze/all_projects/) to check our projects!
 
 # Departments
