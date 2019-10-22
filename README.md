@@ -17,9 +17,9 @@
 "Roster"
 - Eric Guo - President, Technical Director, Creative Director;
 - Jady Huang - Vice President, Plot Director, Musical Director;
-- Ann Yu - Associate Musical Director;
+- Ann Yu - Associate Musical Director; Public Relations Director;
 - Jasmine Zhang - Artistic Director, Associate Plot Director;
-- Leon Li - Associate Technical Director
+- Leon Li - Software Engineer;
 - William Tao - Musician, Software Engineer;
 - Michael Luo - Software Engineer;
 - Winnie Ding - Musician;
