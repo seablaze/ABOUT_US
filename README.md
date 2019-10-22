@@ -3,8 +3,14 @@
 - Based in Newtown, PA
 - Branches in Shenzhen, China; Montréal, Canada; 
 - Group of HS kids from all over the world making cool stuffs together
-- Including and not exclusively to: games, musics, arts, films, clothings
+- Go to folders for descriptions categorized by departments.
 - Follow us on instagram @seablaze_studio
+
+# Departments
+- Game
+- Music
+- Film
+- Art
 
 # Seablaze Studio Newtown
 "Roster"
