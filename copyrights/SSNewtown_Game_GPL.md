@@ -1,6 +1,6 @@
 If you are directed to this page:
 
-The original work is started/contributed completely by one or more members of Seablaze Studio at Newtown.
+The original work is started/contributed completely by one or more members of Game Department of Seablaze Studio at Newtown.
 
 The original work is protected by GPL license, the most commonly used open-source license by Seablaze Studio at Newtown.
 
