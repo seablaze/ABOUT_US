@@ -7,5 +7,5 @@ The original work is protected by GPL license, the most commonly used open-sourc
 Copyright of the original work exclusively belongs to Seablaze Studio at Newtown, not shared with any other branches of Seablaze Studio Design Global nor the main branch itself.
 
 For further questions contact:
-Seablaze Studio Design Global at: seablazestudio@gamil.com
-Peng Guo (RM, Seablaze Studio Newtown) at: errrrrricg@gmail.com
+- Seablaze Studio Design Global at: seablazestudio@gamil.com
+- Peng Guo (RM, Seablaze Studio Newtown) at: errrrrricg@gmail.com
