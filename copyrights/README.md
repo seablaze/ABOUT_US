@@ -1,1 +1,3 @@
-This folder contains all the copyright formats used by Seablaze Studio Design Global
+This folder contains all the copyright formats and information used by Seablaze Studio Design Global.
+
+
